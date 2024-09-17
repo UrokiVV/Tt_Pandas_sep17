@@ -1,12 +1,12 @@
-Средняя зарплата по городам:
+Mean Salary in diffrent cites:
 
  City= Xxxx
 Salary.mean= 41000.0
 
- City= Москва
+ City= Moscow
 Salary.mean= 211400.0
 
- City= Томск
+ City= Tomsk
 Salary.mean= 91250.0
 
 Process finished with exit code 0
